@@ -1,0 +1,10 @@
+platform :ios, ‘8.3’
+pod ‘Reachability’, ‘~> 3.0.0’
+pod ‘SBJson’, ‘~> 4.0.0’
+pod ‘AFNetworking', '~> 2.0’
+pod 'AMap3DMap'
+pod 'AMap2DMap'
+pod 'AMapSearch’
+pod ‘JSONKit’
+pod ‘MJExtension’
+pod ‘MJRefresh’
